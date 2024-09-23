@@ -1,4 +1,4 @@
-## Olá, eu sou o Ronaldo Noda! Seja bem-vindo(a) ao meu perfil 👋
+## Olá! Me chamo Ronaldo Noda! Seja bem-vindo(a) ao meu perfil 👋
 <a href="https://github.com/Ronaldo-Noda/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ronaldo-Noda&show_icons=true&theme=tokyonight" />
 </a>
