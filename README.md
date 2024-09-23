@@ -10,3 +10,5 @@
 </div>
   
   ##
+
+  ![snake gif](https://github.com/Ronaldo-Noda/Ronaldo-Noda/blob/output/github-contribution-grid-snake.svg)
