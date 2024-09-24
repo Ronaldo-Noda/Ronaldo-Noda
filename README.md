@@ -6,15 +6,15 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ronaldo-Noda&layout=donut&theme=tokyonight&langs_count=8&card_width=320" />
 </a>
 
-##
+
 
 <div style="display: inline_block"><br>
  <a href="https://www.linkedin.com/in/ronaldo-noda-443306182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
-<img align="right" alt="Coding" width="300" src="https://github.com/Ronaldo-Noda/Ronaldo-Noda/blob/main/5RTG.gif">
+<div>
+  <img align="right" alt="Coding" width="300" src="https://github.com/Ronaldo-Noda/Ronaldo-Noda/blob/main/5RTG.gif">
+</div>
 
 ## 🚀 Skills
 <div style="display: inline_block"><br>
@@ -26,13 +26,8 @@
   
 </div>
 
-##
-
 ## 📧 Contato 
-
-      
 #### 📧 ronaldo.noda@me.com / ronaldo.noda.1995@gmail.com
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronaldo-Noda/Ronaldo-Noda/output/github-contribution-grid-snake-dark.svg">
