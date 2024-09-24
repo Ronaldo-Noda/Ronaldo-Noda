@@ -14,7 +14,7 @@
 
 ##
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Ronaldo-Noda/Ronaldo-Noda/master/5RTG.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/Ronaldo-Noda/Ronaldo-Noda/blob/main/5RTG.gif">
 
 ## 🚀 Skills
 <div style="display: inline_block"><br>
