@@ -14,6 +14,8 @@
 
 ##
 
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Ronaldo-Noda/Ronaldo-Noda/master/5RTG.gif">
+
 ## 🚀 Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-plain.svg">
